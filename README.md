@@ -104,3 +104,13 @@ Click on the Agent Panel on the top right side of the page. Once there click Use
 Click on the Admin Panel on the top right side of the page. Once there click Manage, and then click SLA and press Add New SLA Plan on the right side of the page. Fill in the appropriate information and click Add User on the bottom right corner of the User configuration box. In this demonstration three SLA plans will be created. The first will be named Sev-A, grace period will be 1 hour, and schedule will be 24/7. The next will be Sev-b, 4 hour grace period, and 24/7 schedule. The last will be Sev-C, 8 hour grace period, and schedule will be business hours so Monday-Friday 8am to 5pm. Press the yellow Add Plan at the bottom of the page to create each one.     
 </p>
 <br />
+
+<h2>Step 9. Configure Help Topics</h2>
+
+<p>
+<img src="https://i.imgur.com/0i7V00j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Manage tab you are already in, click Help Topics and add five new Help Topics. They will be named Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and other. For Business Critical Outage, Personal Computer Issues, and Password Reset, set the parent topic to Report a Problem. Set the others to General Inquiry. Click the yellow "Add Topic" button to create each Help Topic. This is the end of the tutorial for the post installation configuration for the osTicket ticketing software.     
+</p>
+<br />
