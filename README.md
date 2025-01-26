@@ -74,3 +74,13 @@ Click on Teams, and then click the Add New Team button on the right side. Rename
 Click Settings, then Users, and make sure the "Require registration and login to create tickets" box is unchecked. This allows for users without accounts to create tickets without registration.  
 </p>
 <br />
+
+<h2>Step 6. Configure Agents</h2>
+
+<p>
+<img src="https://i.imgur.com/E9DYa7h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on Agents and click on the Add New Agent button on the right side. In this demonstration two agents will be created. Fill in their information and credentials as you see fit. Make sure to set passwords for each. Have one agent become a part of the SysAdmin department as a Supreme Admin in the Online Banking team. Have the other be Support with the View Only permission. Once you're finished press the yellow Create button in the Teams tab next to the Permissions tab.    
+</p>
+<br />
