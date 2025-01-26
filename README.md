@@ -64,3 +64,13 @@ Click Departments under the Manage tab and click the Add New Departments button 
 Click on Teams, and then click the Add New Team button on the right side. Rename and configure the team in the Team tab, and add members to the team in the Members tab. In this demonstration the team will be called Online Banking. click the yellow Create Team button on the bottom once it's done. 
 </p>
 <br />
+
+<h2>Step 5. Allow for Ticket Creation</h2>
+
+<p>
+<img src="https://i.imgur.com/QJqLUx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click Settings, then Users, and make sure the "Require registration and login to create tickets" box is unchecked. This allows for users without accounts to create tickets without registration.  
+</p>
+<br />
