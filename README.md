@@ -94,3 +94,13 @@ Click on Agents and click on the Add New Agent button on the right side. In this
 Click on the Agent Panel on the top right side of the page. Once there click Users, and then click Add Users on the right side of the page. Fill in the appropriate information and click Add User on the bottom right corner of the User configuration box.     
 </p>
 <br />
+
+<h2>Step 8. Configure SLAs</h2>
+
+<p>
+<img src="https://i.imgur.com/nkNi8CL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the Admin Panel on the top right side of the page. Once there click Manage, and then click SLA and press Add New SLA Plan on the right side of the page. Fill in the appropriate information and click Add User on the bottom right corner of the User configuration box. In this demonstration three SLA plans will be created. The first will be named Sev-A, grace period will be 1 hour, and schedule will be 24/7. The next will be Sev-b, 4 hour grace period, and 24/7 schedule. The last will be Sev-C, 8 hour grace period, and schedule will be business hours so Monday-Friday 8am to 5pm. Press the yellow Add Plan at the bottom of the page to create each one.     
+</p>
+<br />
