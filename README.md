@@ -35,18 +35,22 @@ Login into osTicket using this link http://localhost/osTicket/scp/login.php usin
 </p>
 <br />
 
+<h2>Step 2. Configure Roles for Grouping Permissions </h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o5xmLvw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click the Agents tab then click Roles. You should see different levels of access. Clicking on them will allow you to rename said role in the Definition tab, and assign different permissions in the Permissions tab. To create new roles, click the Role tab and click Add New Role on the right side. This will prompt you to name your new role in the Definition tab, as well as assign permissions in the Permission tab. The name of the role for this demonstration is "Supreme Admin Role". Give this role all permissions. Once you are finished click the yellow Add Role button at the bottom of the page. 
 </p>
 <br />
 
+<h2>Step 3. Configure Departments for Ticket Visibility </h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/js5sUxt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click Departments under the Manage tab and click the Add New Departments button on the right side. Fill in correalating information in the appropriate fields. A SysAdmin department will be created for this demonstration. Once complete, scroll down and press the yellow Create Dept button to create a new Department. 
 </p>
 <br />
