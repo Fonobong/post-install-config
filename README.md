@@ -84,3 +84,13 @@ Click Settings, then Users, and make sure the "Require registration and login to
 Click on Agents and click on the Add New Agent button on the right side. In this demonstration two agents will be created. Fill in their information and credentials as you see fit. Make sure to set passwords for each. Have one agent become a part of the SysAdmin department as a Supreme Admin in the Online Banking team. Have the other be Support with the View Only permission. Once you're finished press the yellow Create button in the Teams tab next to the Permissions tab.    
 </p>
 <br />
+
+<h2>Step 7. Configure Users</h2>
+
+<p>
+<img src="https://i.imgur.com/nkNi8CL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the Agent Panel on the top right side of the page. Once there click Users, and then click Add Users on the right side of the page. Fill in the appropriate information and click Add User on the bottom right corner of the User configuration box.     
+</p>
+<br />
